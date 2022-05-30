@@ -36,7 +36,9 @@ He also said that the Chromium GUI won't be going away any time soon.
 
 ### Ingame
 
-Ingame is.. decent. It's worse than regular Forge for me, with it feeling more choppy than Forge.
+Ingame is.. uhhhhhhhh
+
+It's worse than regular Forge for me, with it feeling more choppy than Forge.
 
 Trying to configure the GUI is a pain though, it feels clunky and, as I've said before, it severely lags behind. The icons were not pleasing to look at either.
 
